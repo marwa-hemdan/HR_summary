@@ -88,3 +88,8 @@ Through exploration, I noticed the following important **relationships between v
 ## 🙏 Acknowledgment
 
 Tutorial by [Baraa on YouTube](https://www.youtube.com/watch?v=UcGF09Awm4Y) inspired this project. I followed his structure but applied my own analysis and insights throughout.
+
+
+## Tableau Link 
+
+[Tableau Link for HR_Summary](https://public.tableau.com/app/profile/marwa.hemdan/viz/Book1_17499975189090/HRSummary)

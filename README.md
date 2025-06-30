@@ -1,6 +1,6 @@
 ## 📊 HR Analytics Dashboard (Built with Tableau)
 
-### 🧠 My Perspective
+#### 🧠 My Perspective
 
 This project analyzes a fictional HR dataset to explore the **patterns behind employee attrition**. I followed the process from Baraa’s tutorial but added my own thinking to understand how each visualization helps uncover key HR insights.
 ---
